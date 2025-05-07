@@ -1,7 +1,7 @@
 {
-  "name": "cdp-node-backend-template",
-  "version": "0.1.0",
-  "description": "CDP Node.js Backend Template",
+  "name": "cdp-team-day-postgres-test",
+  "version": "0.0.0",
+  "description": "cdp-team-day-postgres-test",
   "main": "src/index.js",
   "type": "module",
   "engines": {
